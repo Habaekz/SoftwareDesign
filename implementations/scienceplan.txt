@@ -1,0 +1,18 @@
+Science Plan
+
+- Creator
+- Submitor
+- Funding
+- Objective
+- Stars system
+- Schedule(date,time)
+- Telescope location
+- Data processing requirements
+	- file type
+	- file quality
+	- image processing
+		- B&W
+		- color
+		- contrast
+		- brightness
+		- Saturation
